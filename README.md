@@ -11,3 +11,5 @@ The list for programs requiring this module is:
 - Assignment 3: Trapezoidal.c
 - Assignment 4: tangentCalculations.c
 - Assignment 5: Arctanh.c
+
+To compile the code for assignment 6, run the `make` command in the folder containing the individual files. `make clean` is an additional option to get rid of the two `.o` files.
